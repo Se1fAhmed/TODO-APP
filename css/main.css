@@ -1,0 +1,17 @@
+body{
+    color: white;
+    background-color: black;
+}
+.card-body{
+    background-color: #333;
+    font-weight: bold;
+    border-radius: 5px;
+}
+i{
+    float: right;
+    font-size: 25px;
+    cursor: pointer;
+}
+i:hover{
+    color:rgb(190, 0, 0);
+}
